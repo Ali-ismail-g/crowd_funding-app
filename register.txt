@@ -1,0 +1,3 @@
+{'first_name': 'ali', 'last_name': 'ismail', 'password': '1234', 'confirm_password': '1234', 'email': 'ali@yahoo.com', 'mobile_phone': '01120704770'}
+{'first_name': 'ahmed', 'last_name': 'mohamed', 'password': '1234', 'confirm_password': '1234', 'email': 'ah@yahoo.com', 'mobile_phone': '01003422111'}
+{'first_name': 'ismail', 'last_name': 'khedr', 'password': '1234', 'confirm_password': '1234', 'email': 'ismail@yahoo.com', 'mobile_phone': '01002566777'}
